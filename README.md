@@ -1,9 +1,6 @@
 feedreaderSI v2
 ===============
 
-OnLine RSS feed store and read, with very usefull options
-
-
 Detalle
 -------
 Hemos programado feedreaderSI como una herramienta interna debido a las
