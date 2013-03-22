@@ -37,7 +37,7 @@ pudiendo :
 * Modificarlo
 * Envialo por email
 * Eliminarlo
-* Marcarlo como Protejido - no se puede eliminar hasta que se desmarque esta opcion
+* Marcarlo como Protejido - no se puede eliminar hasta que se desmarque esta opción
 * Marcarlo como Importante - para leerlo posteriormente
 
 feedreaderSI almacena todo el artúclo dentro de la base de datos
