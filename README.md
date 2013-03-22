@@ -14,8 +14,26 @@ en funciones y postergamos este capítulo.
 
 Funciones
 ---------
+
+Feeds RSS
+* Agregar
+* Modificar
+* Eliminar
+
+
+
+
+
+Aplicaciones dentro de la aplicación
+------------------------------------
 Esta aplicación utiliza herramientas no programadas por nosotros, estas son:
 
 * magpierss : http://magpierss.sourceforge.net/
-*
+
+Esta aplicación realiza el "parse" de las información RSS
+
+
+* Libchart : http://naku.dohcrew.com/libchart/pages/introduction/
+
+Genera lo sgráficos de las estadísticas
 
