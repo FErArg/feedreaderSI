@@ -113,6 +113,7 @@ C: SerInformaticos
 U: serinformaticos
 C: SerInformaticos
 
+La configuracion de los usuarios se debe realizar desde el panel de administardión
 
 Configuración aplicación
 ------------------------
