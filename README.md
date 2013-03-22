@@ -38,6 +38,7 @@ Necesitabamos un lugar centralizado, independiente de aplicaciones
 de terceros, tipo Bloglines o Google Reader, por motivos de privacidad
 y por seguridad, además de poder extender nosotros las fucionalidades.
 
+
 Como Funciona
 =============
 feedreaderSI utilizando un script de php que se ejecuta desde el panel
@@ -62,6 +63,14 @@ feedreaderSI almacena todo el artúclo dentro de la base de datos
 También agregamos la opción de importar a la base de datos artículos a la
 base de datos, desde el acceso de "Web", donde se debe "pegar" el enlace
 del artículo que se quiere agregar a la base de datos.
+
+Para ejecutar la carga automática de los artículos desde cron, agregar
+la siguiente línea en el crontab
+
+*/60     *   *   *  * php -f /var/www/feedreaderSI/cargar-cron.php > /dev/null 2>&1
+
+Para que cargue los artículos cada hora
+
 
 
 Funciones
