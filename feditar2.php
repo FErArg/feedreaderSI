@@ -1,7 +1,7 @@
 <?php
-/*
- <!--
-	                                                    #
+	/**************************************************************************************************
+	#     Copyright (c) 2008 - 2013 Fernando A. Rodríguez para SerInformaticos.es                     #
+	#                                                                                                 #
 	#     Este programa es software libre: usted puede redistribuirlo y / o modificarlo               #
 	#     bajo los t&eacute;rminos de la GNU General Public License publicada por la                  #
 	#     la Free Software Foundation, bien de la versi&oacute;n 3 de la Licencia, o de               #
@@ -31,6 +31,7 @@
 	#       Web:      www.SerInformaticos.es                                                          #
 	#                                                                                                 #
 	**************************************************************************************************/
+
 
 if ( isset($_SESSION['Authenticated']) AND $_SESSION['Authenticated'] == 1 ){
 
