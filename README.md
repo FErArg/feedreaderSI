@@ -47,20 +47,28 @@ base de datos, desde el acceso de "Web", donde se debe "pegar" el enlace
 del artículo que se quiere agregar a la base de datos.
 
 
-Configuración
--------------
-* Agregar Feeds
-* Configurar Feeds
-* Configurar Tags
-* Descargar Artículos
 
 Funciones
 ---------
+Inicio
+* Muestra los artículos sin leer ordenador por su origen
 
-Feeds RSS
+Importante
+* Detalle de todos los artículos marcados como Importantes
+
+Protegidos
+* Detalle de todos los artículos marcados como Protegidos
+
+Buscar
+* Permite buscar dentro de los artículos almacenados en la DB
+
+Feeds
 * Agregar
 * Modificar
 * Eliminar
+
+Web
+* Descarga el artículo del que se escriba la dirección del artículo
 
 Estadísticas de Artículos
 * Por días
@@ -72,18 +80,26 @@ Estadísticas de Artículos
 * Importantes y Protegidos
 * Totales
 
+Configuración
+* Agregar Feeds
+* Configurar Feeds
+* Configurar Tags
+* Descargar Artículos
+
 
 
 Aplicaciones dentro de la aplicación
 ------------------------------------
-Esta aplicación utiliza herramientas no programadas por nosotros, estas son:
+feedreaderSI hace uso de las siguientes herramientas:
 
 * magpierss : http://magpierss.sourceforge.net/
-
 Esta aplicación realiza el "parse" de las información RSS
 
-
 * Libchart : http://naku.dohcrew.com/libchart/pages/introduction/
-
 Genera lo sgráficos de las estadísticas
 
+* CSS Table Designs : http://coding.smashingmagazine.com/2008/08/13/top-10-css-table-designs/
+Diseño CSS de las tablas para HTML
+
+* Send Mail using SMTP and PHP : http://www.9lessons.info/2009/10/send-mail-using-smtp-and-php.html
+Envío de email desde PHP
