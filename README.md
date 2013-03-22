@@ -136,7 +136,7 @@ $SmtpPass="clave";
 
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
-feedreaderSI v.1.0
+feedreaderSI v.0.1
 
 feedreaderSI es un sistema de lectura y almacen de feeds, de estilo de
 Bloglines o Google Reader pero mucho mas modesto y menos pretencioso.
