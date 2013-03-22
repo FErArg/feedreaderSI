@@ -20,6 +20,26 @@ en funciones y postergamos este capítulo.
 A día de hoy nuestra instalación de feedreaderSI almacena mas de 50 mil
 artículos
 
+feedreaderSI es un sistema de lectura y almacen de feeds, de estilo de
+Bloglines o Google Reader pero mucho mas modesto y menos pretencioso.
+
+El sistema funciona con una Base de datos MySQL y PHP5, esta planeado
+para ser utilizado por múltilpes usuarios simultaneamente.
+
+feedreaderSI utiliza MagPieRSS para conectar los feed RSS y descargar
+los artículos y el script Im OPML Parser
+
+Esta aplicación web nació a causa del uso que hacemos de información
+a la que accedemos por medio de los canales de RSS.
+
+Hasta hace unos meses utilizabamos servicios en línea, como Bloglines,
+pero con los cambios de su política, nos vimos en la necesidad de mover
+los feeds a clientes, tanto de escritorio como para los móviles y
+tabletas.
+
+Necesitabamos un lugar centralizado, independiente de aplicaciones
+de terceros, tipo Bloglines o Google Reader, por motivos de privacidad
+y por seguridad, además de poder extender nosotros las fucionalidades.
 
 Como Funciona
 =============
@@ -155,11 +175,10 @@ pero con los cambios de su política, nos vimos en la necesidad de mover
 los feeds a clientes, tanto de escritorio como para los móviles y
 tabletas.
 
-Pero necesitabamos un lugar centralizado, independiente de aplicaciones
+Necesitabamos un lugar centralizado, independiente de aplicaciones
 de terceros, tipo Bloglines o Google Reader, por motivos de privacidad
 y por seguridad, además de poder extender nosotros las fucionalidades.
 
-Este sistema d
 
 
 notaSI+ - Beta 4
