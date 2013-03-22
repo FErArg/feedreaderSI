@@ -113,6 +113,17 @@ C: SerInformaticos
 U: serinformaticos
 C: SerInformaticos
 
+
+Configuración aplicación
+------------------------
+Editar el archivo "inc/framework.php" y configure las opciones:
+
+$servidor="SERVIDORDV";
+$usuario="USUARIODB";
+$clave="CLAVEUSUARIODB";
+$db="NOMBREDB";
+
+--------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
 feedreaderSI v.1.0
 
