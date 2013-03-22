@@ -9,10 +9,10 @@ Detalle
 Hemos programado feedreaderSI como una herramienta interna debido a las
 idas y vueltas del lector que RSS que utilizábamos, Bloglines.
 
-feedreaderSI es una aplicación muy simple para solventar un problema
-interno, el almacenar los artículos que nos eran de importancia, que
-necesitábamos almacenar para una lectura posterior, guardarlos, eliminarlos
-o compartirlos por email.
+feedreaderSI es una aplicación muy simple escrita para solventar un problema
+interno y muy concreto, el almacenar los artículos que nos eran de importancia,
+que necesitábamos almacenar para una lectura posterior, guardarlos,
+eliminarlos o compartirlos por email.
 
 feedreaderSI nació como multi usuarios, pero hemos preferido fortalecerlo
 en funciones y postergamos este capítulo.
