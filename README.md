@@ -124,6 +124,15 @@ $usuario="USUARIODB";
 $clave="CLAVEUSUARIODB";
 $db="NOMBREDB";
 
+
+Para el envío de email configurar en el archivo "inc/email/SMTPconfig.php"
+
+$SmtpServer="server smtp";
+$SmtpPort="25"; //default
+$SmtpUser="usuario";
+$SmtpPass="clave";
+
+
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
 feedreaderSI v.1.0
