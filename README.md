@@ -118,6 +118,7 @@ Configuración aplicación
 ------------------------
 Editar el archivo "inc/framework.php" y configure las opciones:
 
+$db = "NOMBREDB";
 $servidor="SERVIDORDV";
 $usuario="USUARIODB";
 $clave="CLAVEUSUARIODB";
