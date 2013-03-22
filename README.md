@@ -115,6 +115,7 @@ C: SerInformaticos
 
 La configuracion de los usuarios se debe realizar desde el panel de administardión
 
+
 Configuración aplicación
 ------------------------
 Editar el archivo "inc/framework.php" y configure las opciones:
@@ -124,7 +125,6 @@ $servidor="SERVIDORDV";
 $usuario="USUARIODB";
 $clave="CLAVEUSUARIODB";
 $db="NOMBREDB";
-
 
 Para el envío de email configurar en el archivo "inc/email/SMTPconfig.php"
 
