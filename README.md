@@ -96,7 +96,7 @@ feedreaderSI hace uso de las siguientes herramientas:
 Esta aplicación realiza el "parse" de las información RSS
 
 * Libchart : http://naku.dohcrew.com/libchart/pages/introduction/
-Genera lo sgráficos de las estadísticas
+Genera los gráficos de las estadísticas
 
 * CSS Table Designs : http://coding.smashingmagazine.com/2008/08/13/top-10-css-table-designs/
 Diseño CSS de las tablas para HTML
