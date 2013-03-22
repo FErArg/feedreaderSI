@@ -47,7 +47,6 @@ base de datos, desde el acceso de "Web", donde se debe "pegar" el enlace
 del artículo que se quiere agregar a la base de datos.
 
 
-
 Funciones
 ---------
 Inicio
@@ -87,7 +86,6 @@ Configuración
 * Descargar Artículos
 
 
-
 Aplicaciones dentro de la aplicación
 ------------------------------------
 feedreaderSI hace uso de las siguientes herramientas:
@@ -103,3 +101,14 @@ Diseño CSS de las tablas para HTML
 
 * Send Mail using SMTP and PHP : http://www.9lessons.info/2009/10/send-mail-using-smtp-and-php.html
 Envío de email desde PHP
+
+
+Usuarios Predeterminados
+------------------------
+* Administrador
+U: admin
+C: SerInformaticos
+
+* Usuario
+U: serinformaticos
+C: SerInformaticos
