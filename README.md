@@ -20,7 +20,15 @@ Feeds RSS
 * Modificar
 * Eliminar
 
-
+Estadísticas de Artículos
+* Por días
+* Eliminados por día
+* Click por día
+* Click por Dia y Eliminados
+* Importante por Dia
+* Protegido por Dia
+* Importantes y Protegidos
+* Totales
 
 
 
